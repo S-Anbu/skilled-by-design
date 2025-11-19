@@ -1,0 +1,464 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextLTPro-Bold
+FamilyName:Avenir Next LT Pro
+StyleName:Bold
+FullName:Avenir Next LT Pro Bold
+MenuName:AvenirNext LT Pro Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Outsoursing\11-Nov\14-11-2025\Skilled by Design\Skilled by Design\Document fonts\AvenirNextLTPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:74928
+FileModTime:1751689697
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,AvenirNext LT Pro Bold
+NameArray:0,Mac,4,Avenir Next LT Pro Bold
+NameArray:0,Win,1,AvenirNext LT Pro Bold
+NameArray:0,Win,16,Avenir Next LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextLTPro-BoldIt
+FamilyName:Avenir Next LT Pro
+StyleName:Bold Italic
+FullName:Avenir Next LT Pro Bold Italic
+MenuName:AvenirNext LT Pro Medium
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\Outsoursing\11-Nov\14-11-2025\Skilled by Design\Skilled by Design\Document fonts\AvenirNextLTPro-BoldIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:76704
+FileModTime:1751689697
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,AvenirNext LT Pro BoldIt
+NameArray:0,Mac,4,Avenir Next LT Pro Bold Italic
+NameArray:0,Win,1,AvenirNext LT Pro Medium
+NameArray:0,Win,16,Avenir Next LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextLTPro-It
+FamilyName:Avenir Next LT Pro
+StyleName:Italic
+FullName:Avenir Next LT Pro Italic
+MenuName:AvenirNext LT Pro It
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Outsoursing\11-Nov\14-11-2025\Skilled by Design\Skilled by Design\Document fonts\AvenirNextLTPro-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:75316
+FileModTime:1751689698
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,AvenirNext LT Pro It
+NameArray:0,Mac,4,Avenir Next LT Pro Italic
+NameArray:0,Win,1,AvenirNext LT Pro It
+NameArray:0,Win,16,Avenir Next LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextLTPro-Regular
+FamilyName:Avenir Next LT Pro
+StyleName:Regular
+FullName:Avenir Next LT Pro
+MenuName:AvenirNext LT Pro Regular
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Outsoursing\11-Nov\14-11-2025\Skilled by Design\Skilled by Design\Document fonts\AvenirNextLTPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:72148
+FileModTime:1751689698
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,AvenirNext LT Pro Regular
+NameArray:0,Mac,4,Avenir Next LT Pro
+NameArray:0,Win,1,AvenirNext LT Pro Regular
+NameArray:0,Win,16,Avenir Next LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CharterBT-Roman
+FamilyName:Charter BT
+StyleName:Roman
+FullName:Charter BT Roman
+MenuName:Charter BT
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Outsoursing\11-Nov\14-11-2025\Skilled by Design\Skilled by Design\Document fonts\Charter BT Roman.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:41236
+FileModTime:1752242818
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Charter BT Roman
+NameArray:0,Win,1,Charter BT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-It
+FamilyName:Myriad Pro
+StyleName:Italic
+FullName:Myriad Pro Italic
+MenuName:Myriad Pro
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Outsoursing\11-Nov\14-11-2025\Skilled by Design\Skilled by Design\Document fonts\MyriadPro-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:105656
+FileModTime:1329287028
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:110
+NameArray:0,Mac,18,Myriad Pro It
+NameArray:0,Mac,4,Myriad Pro Italic
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Wingdings2
+FamilyName:Wingdings 2
+StyleName:Regular
+FullName:Wingdings 2
+MenuName:Wingdings 2
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Outsoursing\11-Nov\14-11-2025\Skilled by Design\Skilled by Design\Document fonts\WINGDNG2.TTF
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:65788
+FileModTime:1654248785
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Wingdings 2
+NameArray:0,Win,1,Wingdings 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+FullName:Arial
+MenuName:Arial
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Outsoursing\11-Nov\14-11-2025\Skilled by Design\Skilled by Design\Document fonts\arial.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1047208
+FileModTime:1711956127
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+FullName:Arial Bold
+MenuName:Arial
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Outsoursing\11-Nov\14-11-2025\Skilled by Design\Skilled by Design\Document fonts\arialbd.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:991572
+FileModTime:1711956159
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-Bold
+FamilyName:Calibri
+StyleName:Bold
+FullName:Calibri Bold
+MenuName:Calibri
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Outsoursing\11-Nov\14-11-2025\Skilled by Design\Skilled by Design\Document fonts\calibrib.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1647428
+FileModTime:1711956159
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Calibri Bold
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Bold
+FamilyName:Raleway
+StyleName:Bold
+FullName:Raleway Bold
+MenuName:Raleway
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Outsoursing\11-Nov\14-11-2025\Skilled by Design\Skilled by Design\Document fonts\raleway.bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:128248
+FileModTime:1754308435
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Raleway Bold
+NameArray:0,Mac,4,Raleway Bold
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPSMT
+FamilyName:Times New Roman
+StyleName:Regular
+FullName:Times New Roman
+MenuName:Times New Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Outsoursing\11-Nov\14-11-2025\Skilled by Design\Skilled by Design\Document fonts\times.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1201620
+FileModTime:1711956127
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Times New Roman
+NameArray:0,Win,1,Times New Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NirmalaText
+FamilyName:Nirmala Text
+StyleName:Regular
+FullName:Nirmala Text
+MenuName:Nirmala Text
+StyleBits:0
+WritingScript:Kannada
+OutlineFileName:D:\Outsoursing\11-Nov\14-11-2025\Skilled by Design\Skilled by Design\Document fonts\Nirmala.ttc
+TTCOffset:1044
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:5304988
+FileModTime:1711956127
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nirmala Text
+NameArray:0,Win,1,Nirmala Text
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NirmalaText-Bold
+FamilyName:Nirmala Text
+StyleName:Bold
+FullName:Nirmala Text Bold
+MenuName:Nirmala Text
+StyleBits:2
+WritingScript:Kannada
+OutlineFileName:D:\Outsoursing\11-Nov\14-11-2025\Skilled by Design\Skilled by Design\Document fonts\Nirmala.ttc
+TTCOffset:1376
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:5304988
+FileModTime:1711956127
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nirmala Text Bold
+NameArray:0,Win,1,Nirmala Text
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NirmalaText-Semilight
+FamilyName:Nirmala Text
+StyleName:Semilight
+FullName:Nirmala Text Semilight
+MenuName:Nirmala Text Semilight
+StyleBits:0
+WritingScript:Kannada
+OutlineFileName:D:\Outsoursing\11-Nov\14-11-2025\Skilled by Design\Skilled by Design\Document fonts\Nirmala.ttc
+TTCOffset:1708
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:5304988
+FileModTime:1711956127
+WeightClass:350
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nirmala Text Semilight
+NameArray:0,Win,1,Nirmala Text Semilight
+NameArray:0,Win,16,Nirmala Text
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NirmalaUI
+FamilyName:Nirmala UI
+StyleName:Regular
+FullName:Nirmala UI
+MenuName:Nirmala UI
+StyleBits:0
+WritingScript:Kannada
+OutlineFileName:D:\Outsoursing\11-Nov\14-11-2025\Skilled by Design\Skilled by Design\Document fonts\Nirmala.ttc
+TTCOffset:48
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:5304988
+FileModTime:1711956127
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nirmala UI
+NameArray:0,Win,1,Nirmala UI
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NirmalaUI-Bold
+FamilyName:Nirmala UI
+StyleName:Bold
+FullName:Nirmala UI Bold
+MenuName:Nirmala UI
+StyleBits:2
+WritingScript:Kannada
+OutlineFileName:D:\Outsoursing\11-Nov\14-11-2025\Skilled by Design\Skilled by Design\Document fonts\Nirmala.ttc
+TTCOffset:380
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:5304988
+FileModTime:1711956127
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nirmala UI Bold
+NameArray:0,Win,1,Nirmala UI
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NirmalaUI-Semilight
+FamilyName:Nirmala UI
+StyleName:Semilight
+FullName:Nirmala UI Semilight
+MenuName:Nirmala UI Semilight
+StyleBits:0
+WritingScript:Kannada
+OutlineFileName:D:\Outsoursing\11-Nov\14-11-2025\Skilled by Design\Skilled by Design\Document fonts\Nirmala.ttc
+TTCOffset:712
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:5304988
+FileModTime:1711956127
+WeightClass:350
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nirmala UI Semilight
+NameArray:0,Win,1,Nirmala UI Semilight
+NameArray:0,Win,16,Nirmala UI
+%EndFont
+
